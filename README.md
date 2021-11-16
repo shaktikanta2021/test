@@ -46,6 +46,6 @@ What programs will do:
  
  (ii)run "fb_decoder" with command: fb_decoder <binary file path>
  <binary file path>: is the same  binary file which created in step (i).
- values are deoded and printed on command prompt, in case of any faliure appropriate message is displayed.
+ values are deoded and printed on command prompt, in case of any faliure appropriate message is displayed..
  
  
