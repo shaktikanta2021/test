@@ -28,14 +28,14 @@ Use this ".h" file in both ".cpp" files.
 
 What programs will do:
 ---------------------
-(i) run "fb_encoder" with command: fb_encoder <binary file path>
- <binary file path>: is the name of binary file to which we want to encode.
+(i) run "fb_encoder" with command: "fb_encoder binary file path"
+ "binary file path": is the name of binary file to which we want to encode.
  It asks command line inputs from user and depending on that, it executes.
  After succesful encoding, it gives message on command promopt.
  Appropriate message will be displayed in case it fails.
  
- (ii)run "fb_decoder" with command: fb_decoder <binary file path>
- <binary file path>: is the same  binary file which created in step (i).
- values are deoded and printed on command prompt, in case of any faliure appropriate message is displayed..
+ (ii)run "fb_decoder" with command: "fb_decoder binary file path"
+ "binary file path": is the same  binary file which created in step (i).
+ values are deoded and printed on command prompt, in case of any faliure appropriate message is displayed.
  
  
