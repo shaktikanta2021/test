@@ -1,9 +1,9 @@
 # test
 Source file/folder structure:
 ----------------------------
-
-source files are at location "Windows.flatc.binary\flatbuffers\include".
-"Windows.flatc.binary\flatbuffers\include\Read_me.txt" for more detailed structure of folder/files.
+Download the zip file "Windows.flatc.binary.zip" and extract.
+source files are located at "..\Windows.flatc.binary\flatbuffers\include"
+"..\Windows.flatc.binary\flatbuffers\include\Read_me.txt" for more detailed structure of folder/files.
 				
 				
 How did I compile/execute:
@@ -24,7 +24,7 @@ Use this ".h" file in both ".cpp" files.
 4.complie both ".cpp" files with command "cl <source file name>"  so that exes will be generated in same folder.
 
 5.Execute both executables one after another in the order	(i)fb_encoder(ii)fb_decoder with required input.
-(PS: I have created source files inside flatc directory, so that I can compile and run program without much configruations to find the header dependencies/etc..)
+(PS: I have created source files inside flatc installation directory, so that I can compile and run program without much bothering about env/ header dependencies/etc..)
 
 What programs will do:
 ---------------------
