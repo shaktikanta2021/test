@@ -1,7 +1,8 @@
 # test
 Source file/folder structure:
 ----------------------------
-source files are at location "Test\Windows.flatc.binary\flatbuffers\include".
+
+source files are at location "Windows.flatc.binary\flatbuffers\include".
 "Windows.flatc.binary\flatbuffers\include\Read_me.txt" for more detailed structure of folder/files.
 				
 				
