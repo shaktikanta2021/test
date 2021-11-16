@@ -2,18 +2,7 @@
 Source file/folder structure:
 ----------------------------
 
-Test
-|
-|-Windows.flatc.binary
-	|-flatc.exe
-	|-flatbuffers
-		|-include
-			|-fb_decoder.cpp
-			|-fb_encoder.cpp
-			|-ClientSchema.fbs
-			|-ClientSchema_generated.h
-			|-flatbuffers..
-				|-...
+Windows.flatc.binary\flatbuffers\include\Read_me.txt for more detailed structure of folder/files.
 				
 				
 How did I compile/execute:
